@@ -1,5 +1,3 @@
-Sure! Here's a sample README file for a digital contact card:
-
 # Digital Contact Card
 A digital contact card is a convenient way to share your contact information and professional details with others. This project provides a simple template for creating and hosting your own digital contact card.
 
